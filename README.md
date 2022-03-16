@@ -1,9 +1,9 @@
-# [GitHub Stats Visualization](https://github.com/ralmsdeveloper/github-stats)
+# [GitHub Stats Visualization](https://github.com/bryan-lima/github-stats)
 
-<a href="https://github.com/ralmsdeveloper/github-stats">
+<a href="https://github.com/bryan-lima/github-stats">
    
-![](https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/bryan-lima/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/bryan-lima/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
