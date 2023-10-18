@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #DA5B0B;width: 66.593%;" class="progress-item"></span><span style="background-color: #178600;width: 12.131%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 7.641%;" class="progress-item"></span><span style="background-color: #e34c26;width: 4.675%;" class="progress-item"></span><span style="background-color: #563d7c;width: 3.347%;" class="progress-item"></span><span style="background-color: #b07219;width: 1.700%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.652%;" class="progress-item"></span><span style="background-color: #3178c6;width: 1.280%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.533%;" class="progress-item"></span><span style="background-color: #012456;width: 0.125%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.121%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.061%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.048%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.033%;" class="progress-item"></span><span style="background-color: #a91e50;width: 0.022%;" class="progress-item"></span><span style="background-color: #5B2063;width: 0.020%;" class="progress-item"></span><span style="background-color: #f7931e;width: 0.009%;" class="progress-item"></span><span style="background-color: #199f4b;width: 0.005%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.002%;" class="progress-item"></span><span style="background-color: #9400ff;width: 0.001%;" class="progress-item"></span><span style="background-color: #427819;width: 0.001%;" class="progress-item"></span>
+<span style="background-color: #DA5B0B;width: 66.594%;" class="progress-item"></span><span style="background-color: #178600;width: 12.131%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 7.641%;" class="progress-item"></span><span style="background-color: #e34c26;width: 4.675%;" class="progress-item"></span><span style="background-color: #563d7c;width: 3.347%;" class="progress-item"></span><span style="background-color: #b07219;width: 1.700%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.652%;" class="progress-item"></span><span style="background-color: #3178c6;width: 1.280%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.533%;" class="progress-item"></span><span style="background-color: #012456;width: 0.125%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.121%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.061%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.048%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.033%;" class="progress-item"></span><span style="background-color: #a91e50;width: 0.022%;" class="progress-item"></span><span style="background-color: #5B2063;width: 0.020%;" class="progress-item"></span><span style="background-color: #f7931e;width: 0.009%;" class="progress-item"></span><span style="background-color: #199f4b;width: 0.005%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.002%;" class="progress-item"></span><span style="background-color: #9400ff;width: 0.001%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -287,15 +287,6 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">ASP.NET</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 3000ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#427819;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Makefile</span>
 <span class="percent">0.00%</span>
 </li>
 
